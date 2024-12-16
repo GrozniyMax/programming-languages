@@ -1,0 +1,13 @@
+ASM=nasm
+ASMFLAGS=-f elf64
+LD=ld
+
+.PHONY: clean
+clean:
+	rm *.o
+
+%.o: %.asm
+	$(ASM) $(ASMFLAGS) -o $@ $<
+
+program: main.o lib.o
+	ld -o program main.o lib.o

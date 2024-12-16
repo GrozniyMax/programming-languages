@@ -1,0 +1,17 @@
+
+MANIFEST_VERSION=Manifest-Version: 1.0
+MANIFEST_MAIN_CLASS=Main-Class
+MAINCLASS=Main
+JAR_NAME=app
+
+%.class: %.java
+	javac $<
+
+MANIFEST.mf:
+	echo $(MANIFEST_VERSION) > MANIFEST.mf
+	echo $(MANIFEST_MAIN_CLASS):$(MAINCLASS) >> MANIFEST.mf
+
+package: Main.class Divider.java Multiplicator.java MANIFEST.mf
+	jar -cvfm $(JAR_NAME).jar MANIFEST.mf -C classes .
+	
+

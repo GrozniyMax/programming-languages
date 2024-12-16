@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c72610c-3e26-4696-8b4e-a17e11e6e3d1" name="Changes" comment="yet another Ascan fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///home/maxim/CLionProjects/assignment-3-image-transform/solution/src/main.c" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2oyjafoTsMbMMWce1OD6MoEI8nG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/maxim/CLionProjects/assignment-3-image-transform/solution",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/solution" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c72610c-3e26-4696-8b4e-a17e11e6e3d1" name="Changes" comment="" />
+      <created>1731848774644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731848774644</updated>
+      <workItem from="1731848775669" duration="3374000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1731848814413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731848814413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cp include dir">
+      <option name="closed" value="true" />
+      <created>1731849063409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731849063409</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix memory leak">
+      <option name="closed" value="true" />
+      <created>1731849647896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731849647896</updated>
+    </task>
+    <task id="LOCAL-00004" summary="double-free fix">
+      <option name="closed" value="true" />
+      <created>1731849833175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731849833175</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yet another double-free fix">
+      <option name="closed" value="true" />
+      <created>1731850043411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731850043411</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731850507358</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731850507358</updated>
+    </task>
+    <task id="LOCAL-00007" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731850705228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731850705228</updated>
+    </task>
+    <task id="LOCAL-00008" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731850888483</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731850888483</updated>
+    </task>
+    <task id="LOCAL-00009" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731851042687</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731851042688</updated>
+    </task>
+    <task id="LOCAL-00010" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731851243446</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731851243446</updated>
+    </task>
+    <task id="LOCAL-00011" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731851447627</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731851447627</updated>
+    </task>
+    <task id="LOCAL-00012" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731851695063</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731851695063</updated>
+    </task>
+    <task id="LOCAL-00013" summary="yet another Ascan fix">
+      <option name="closed" value="true" />
+      <created>1731852053045</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731852053045</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="cp include dir" />
+    <MESSAGE value="fix memory leak" />
+    <MESSAGE value="double-free fix" />
+    <MESSAGE value="yet another double-free fix" />
+    <MESSAGE value="Ascan fix" />
+    <MESSAGE value="yet another Ascan fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="yet another Ascan fix" />
+  </component>
+</project>
